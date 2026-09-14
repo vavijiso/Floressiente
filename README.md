@@ -8,9 +8,9 @@ el clima y la ubicación de tus plantas.
 
 - **📷 Diagnóstico por foto:** la IA detecta plagas, problemas de riego y de luz.
 - **⏰ Recordatorios personalizados:** riegos y tratamientos en tu horario y estación.
-- **🌿 Todo tipo de plantas:** interior, exterior, invernadero y árboles.
+- **🌿 Todo tipo de plantas:** interior, exterior incluyendo invernadero.
 - **🛒 Productos recomendados:** sugiere lo que tu planta necesita para recuperarse y mejorar.
-- **📍 Tiendas cercanas:** con tu ubicación compartida —o tu calle/ciudad si prefieres no compartirla— te dice qué tienda cerca de ti tiene el producto disponible.
+- **📍 Tiendas cercanas:** con tu ubicación compartida o tu calle/ciudad si prefieres no compartirla te dice qué tienda cerca de ti tiene el producto disponible.
 - **💰 Comparador de precios:** ordena las opciones disponibles de la más barata a la más cara.
 
 ## 🔐 Privacidad por diseño
