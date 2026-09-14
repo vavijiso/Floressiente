@@ -7,7 +7,7 @@ el clima y la ubicación exacta donde están distribuidas tus plantas.
 ## ✨ Qué hace Floressiente
 
 - **📷 Diagnóstico por foto:** la IA detecta plagas, problemas de riego y de luz.
-- **⏰ Recordatorios personalizados:** riegos y tratamientos en tu horario y estación.
+- **⏰ Recordatorios personalizados:** riegos y tratamientos en tu horario y estación del año exacta.
 - **🌿 Todo tipo de plantas:** interior, exterior incluyendo invernadero.
 - **🛒 Productos recomendados:** sugiere lo que tu planta necesita para recuperarse y mejorar.
 - **📍 Tiendas cercanas:** con tu ubicación compartida o ingresando manualmente tu calle/ciudad. Te dirá qué tienda cerca de ti tiene el mejor producto disponible.
