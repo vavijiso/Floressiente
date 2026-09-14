@@ -15,5 +15,4 @@ el clima y la ubicación de tus plantas.
 
 ## 🔐 Privacidad por diseño
 
-La ubicación es opcional: puedes compartirla, escribir tu calle o ciudad
-manualmente, o continuar sin ella y seguir recibiendo cuidados generales.
+La ubicación es opcional: puedes compartirla, o escribir manualmente tu calle/ciudad o continuar sin ella y seguir recibiendo cuidados generales.
