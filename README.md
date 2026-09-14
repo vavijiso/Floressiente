@@ -10,7 +10,7 @@ el clima y la ubicación exacta donde están distribuidas tus plantas.
 - **⏰ Recordatorios personalizados:** riegos y tratamientos en tu horario y estación.
 - **🌿 Todo tipo de plantas:** interior, exterior incluyendo invernadero.
 - **🛒 Productos recomendados:** sugiere lo que tu planta necesita para recuperarse y mejorar.
-- **📍 Tiendas cercanas:** con tu ubicación compartida o tu calle/ciudad si prefieres no compartirla te dice qué tienda cerca de ti tiene el producto disponible.
+- **📍 Tiendas cercanas:** con tu ubicación compartida o ingresando manualmente tu calle/ciudad. Te dirá qué tienda cerca de ti tiene el mejor producto disponible.
 - **💰 Comparador de precios:** ordena las opciones disponibles de la más barata a la más cara.
 
 ## 🔐 Privacidad por diseño
