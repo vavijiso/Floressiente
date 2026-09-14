@@ -2,7 +2,7 @@
 
 Identifica plantas y enfermedades mediante foto, programa recordatorios de riego
 personalizados y recibe recomendaciones específicas de cuidado según la especie,
-el clima y la ubicación de tus plantas.
+el clima y la ubicación exacta donde están distribuidas tus plantas.
 
 ## ✨ Qué hace Floressiente
 
