@@ -560,4 +560,4 @@ class GrupoPlantas extends StatelessWidget {
       ],
     );
   }
-}git add .
+}
